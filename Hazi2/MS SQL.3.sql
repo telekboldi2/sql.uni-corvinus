@@ -1,0 +1,4 @@
+EXECUTE AS User= 'proba';
+SELECT * FROM Ugyfel
+REVERT
+SELECT * FROM Ugyfel
