@@ -20,7 +20,7 @@ Beadandó: a megfelelő utasítás
 Válaszszöveg 2 kérdés
 db.users.find(
 
-    { email: { "$regex": ".com } },
+    { email: { "$regex": ".com" } },
 
     { _id: 0, name: 1, email: 1 }
 
