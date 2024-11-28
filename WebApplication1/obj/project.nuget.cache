@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a31hP+O2SfG8tumiJ6uK5Bp88vPPXYYiZobGacTRw4VQXVuO9JXMtz6d3oR9mnlOnNSAj9hSv9JhXA8gE1Cz3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fwbigr\\Source\\Repos\\telekboldi2\\sql.uni-corvinus\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fwbigr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
